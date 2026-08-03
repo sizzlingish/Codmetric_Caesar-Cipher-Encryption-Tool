@@ -160,4 +160,4 @@ Modern encryption algorithms such as **AES** and **RSA** are significantly more 
 
 ## Author
 
-Developed by **Muhammad Hammad** as part of a Cybersecurity Internship.
+Developed by **Areeba** as part of a Cybersecurity Internship.
